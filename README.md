@@ -51,3 +51,12 @@ The game alternates turns between "X" and "O". After each move, it checks whethe
 
 Reset Game:
 A reset button allows the game to be restarted by clearing the board, resetting the turn to "X", and stopping any playing music. The reset also removes any winning line animation.
+
+
+
+
+⭐ Show Your Support
+
+If you liked this project, give it a star ⭐ on GitHub!
+
+
